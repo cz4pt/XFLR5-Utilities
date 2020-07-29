@@ -131,6 +131,7 @@ cd ..
         matObj.CD = data{3};
         matObj.CDp = data{4};
         matObj.Cm = data{5};
+        matObj.XCp = data{10};
         
         fclose(fid);
         
